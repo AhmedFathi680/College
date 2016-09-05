@@ -1,0 +1,13 @@
+this file contains a simple data which consists not only "alphabetical-characters" but also "Symbols",
+and of course this file consists of 
+several
+lines
+but my code can read until EOF.
+And of course the this LISP code can distingush between CAPITAL LETTERS and small letters;
+
+finally,
+the output file which is called "huffman-output.txt" will contain every character in this file and
+it's corresponding binary value (comperesed-value), sorted alphabetically.
+
+my best regards,
+student@sci.cu.edu.eg

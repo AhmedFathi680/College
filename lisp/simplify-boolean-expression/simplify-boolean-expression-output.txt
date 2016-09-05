@@ -1,0 +1,7 @@
+
+(OR (NOT A) (AND B A)) 
+(OR B A) 
+T 
+A 
+T 
+(AND (OR C B) (NOT A) (NOT B)) 
