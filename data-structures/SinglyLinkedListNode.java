@@ -1,5 +1,3 @@
-package clgproject;
-
 public class SinglyLinkedListNode<E> {
 
     //Instance Variables

@@ -1,5 +1,3 @@
-package FinalProject;
-
 import java.awt.*;
 import javax.swing.*;
 import javax.media.opengl.*;

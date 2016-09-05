@@ -1,5 +1,4 @@
-package Trees;
-//When Adding children of children I got a problem is the search method- 
+//When Adding children of children I got a problem in the search method- 
 //which have the 2 arguments, I don't know why ?!
 //See Class TestGTree
 import org.omg.CosNaming.NamingContextPackage.NotFound;

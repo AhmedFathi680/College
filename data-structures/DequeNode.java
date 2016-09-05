@@ -1,5 +1,3 @@
-package clgproject;
-
 public class DequeNode<E> {
 
     //Instance variables

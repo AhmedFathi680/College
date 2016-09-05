@@ -1,5 +1,3 @@
-package FinalProject;
-
 import com.sun.opengl.util.Animator;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;

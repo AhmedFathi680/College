@@ -1,5 +1,3 @@
-package clgproject;
-
 class QueueNode<E> {
 
     //Instance Variables

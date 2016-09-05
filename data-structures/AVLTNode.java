@@ -1,5 +1,3 @@
-package Trees;
-
 public class AVLTNode {
 
     //Instance Variables

@@ -1,5 +1,3 @@
-package clgproject;
-
 import java.util.EmptyStackException;
 
 public class Stack<E> {

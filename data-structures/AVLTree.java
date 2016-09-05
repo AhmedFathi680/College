@@ -1,5 +1,3 @@
-package Trees;
-
 import java.util.EmptyStackException;
 
 public class AVLTree {

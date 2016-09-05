@@ -1,5 +1,3 @@
-package clgproject;
-
 public class DoublyLinkedListNode<E> {
 
     //Instance Variables
