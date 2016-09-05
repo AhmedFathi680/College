@@ -1,5 +1,3 @@
-package algorithms;
-
 public class InsertionClass {
 
     public static void main() {
